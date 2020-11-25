@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Checkout [my Medium Articles](https://medium.com/@billyfong2007) if the topic interests you:
+
+- [How To Setup MongoDB Replica Set on Kubernetes In Minutes](https://medium.com/swlh/how-to-setup-mongodb-replica-set-on-kubernetes-in-minutes-5c1e7fd5b5f3)
+- [Launch Your Own Face Recognition Application(Real-Time)In Browser Within Minutes](https://towardsdatascience.com/launch-your-own-real-time-face-recognition-algorithm-in-your-browser-in-minutes-beginner-guide-a8f2e6fd505c)
+
 <!--
 **BillyFnh/BillyFnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
